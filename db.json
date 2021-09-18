@@ -1,25 +1,12 @@
 {
   "tokens": [
     {
-      "id": 0,
-      "description": "Cookyzi",
-      "external_url": "https://yourcrypto.fr/",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
-    },
-    {
-      "id": 1,
-      "description": "Cookyzi test ok yourcrypto.Fr",
-      "external_url": "https://yourcrypto.fr/",
-      "image": "https://www.yourcrypto.fr/wp-content/uploads/2021/03/cropped-logo-web-transparent1.png",
-      "name": "yourcrypto"
-    },
-    {
       "id": 2,
-      "description": "Cookyzi",
+      "description": "Cookyzi est un jeu NFT play to earn, collectez les cookies pour gagner divers récompense !",
       "external_url": "https://yourcrypto.fr/",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 2"
-    }
+      "Power Hash": "2",
+      "name": "Cookyzi #2"
+    },
   ]
 }
